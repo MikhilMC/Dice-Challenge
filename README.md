@@ -1,1 +1,1 @@
-# Dicee-Challenge
+# Dice Challenge Game
